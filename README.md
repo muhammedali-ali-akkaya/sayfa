@@ -1,2 +1,2 @@
 # sayfa
-deneme sayfası
+deneme
